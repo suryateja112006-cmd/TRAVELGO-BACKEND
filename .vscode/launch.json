@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "TravelBookingApplication",
+      "type": "java",
+      "request": "launch",
+      "mainClass": "com.travelbooking.TravelBookingApplication",
+      "projectName": "travel-booking-system",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    }
+  ]
+}
