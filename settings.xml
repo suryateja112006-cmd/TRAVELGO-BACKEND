@@ -1,0 +1,11 @@
+
+<settings xmlns="http://maven.apache.org/SETTINGS/1.2.0">
+    <mirrors>
+        <mirror>
+            <id>aliyun</id>
+            <mirrorOf>central</mirrorOf>
+            <name>Aliyun Public Maven Mirror</name>
+            <url>https://maven.aliyun.com/repository/public</url>
+        </mirror>
+    </mirrors>
+</settings>
